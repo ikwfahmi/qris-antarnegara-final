@@ -1,0 +1,123 @@
+[
+  {
+    "file": "UI-Tap.wav",
+    "original": "interface/Audio/click_001.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "peak_dBFS": -23,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "QR-Terdeteksi.wav",
+    "original": "interface/Audio/select_003.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "peak_dBFS": -24,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Pembayaran-Berhasil.wav",
+    "original": "interface/Audio/confirmation_001.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "peak_dBFS": -15,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Notifikasi-Penjual.wav",
+    "original": "interface/Audio/confirmation_003.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "peak_dBFS": -21,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Langkah-A.wav",
+    "original": "impact/Audio/footstep_concrete_000.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "peak_dBFS": -22,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Langkah-B.wav",
+    "original": "impact/Audio/footstep_concrete_002.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "peak_dBFS": -22,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Dompet-Buka.wav",
+    "original": "rpg/Audio/handleSmallLeather.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/rpg-audio",
+    "peak_dBFS": -24,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Dompet-Geser.wav",
+    "original": "rpg/Audio/handleSmallLeather2.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/rpg-audio",
+    "peak_dBFS": -27,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Kain-Geser.wav",
+    "original": "rpg/Audio/cloth1.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/rpg-audio",
+    "peak_dBFS": -31,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Kertas-Tas-A.wav",
+    "original": "rpg/Audio/bookFlip1.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/rpg-audio",
+    "peak_dBFS": -27,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "Kertas-Tas-B.wav",
+    "original": "rpg/Audio/bookFlip2.ogg",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/rpg-audio",
+    "peak_dBFS": -29,
+    "processing": "trim silence, normalize peak, 5 ms fade, convert stereo 48 kHz PCM16 WAV"
+  },
+  {
+    "file": "02-Musik-120detik.wav",
+    "title": "ukewave.wav",
+    "author": "yourliver",
+    "published": "2014-05-18",
+    "source": "https://freesound.org/people/yourliver/sounds/238076/",
+    "download": "Public HQ MP3 preview, same CC0 recording; original WAV requires login",
+    "original": "ukewave-yourliver-hq.mp3",
+    "license": "CC0-1.0",
+    "processing": "gentle 3:1 compression, -18 dBFS peak limiting, four repeats with 2-second crossfades, trimmed to 120s, volume automation under voice cues, fade in/out, PCM16 stereo 48kHz"
+  },
+  {
+    "file": "03-Ambience-120detik.wav",
+    "title": "Birds Ambience Atmosphere early morning field slight breeze.wav",
+    "author": "WavJunction.com",
+    "published": "2019-01-17",
+    "source": "https://freesound.org/people/WavJunction.com/sounds/456766/",
+    "download": "Public HQ MP3 preview, same CC0 recording; original WAV requires login",
+    "original": "birds-WavJunction-hq.mp3",
+    "license": "CC0-1.0",
+    "processing": "crossfade loop, quiet level, fade in/out, PCM16 stereo 48kHz; generic atmosphere, not a location recording from Yogyakarta"
+  }
+]

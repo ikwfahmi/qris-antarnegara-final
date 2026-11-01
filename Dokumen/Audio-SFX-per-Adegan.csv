@@ -1,0 +1,15 @@
+Shot,Mulai_detik,Akhir_detik,SFX_terpasang,Musik,File_siap_import
+S01,0.0,8.0,Ambience lembut; tanpa SFX tambahan.,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S02,8.0,16.0,Langkah-A 10.17s; Langkah-B 11.00s; Langkah-A 11.83s; Langkah-B 12.67s; Langkah-A 13.50s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S03,16.0,25.0,Ambience lembut; tanpa SFX tambahan.,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S04,25.0,32.0,Kain-Geser 25.12s; Dompet-Buka 26.00s; Dompet-Geser 27.17s; Dompet-Geser 30.83s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S05,32.0,44.0,Ambience lembut; tanpa SFX tambahan.,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S06,44.0,54.0,Ambience lembut; tanpa SFX tambahan.,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S07,54.0,62.0,Kain-Geser 54.00s; UI-Tap 59.00s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S08,62.0,71.0,QR-Terdeteksi 65.50s; UI-Tap 66.50s; UI-Tap 66.92s; UI-Tap 67.29s; UI-Tap 67.71s; UI-Tap 68.08s; UI-Tap 69.50s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S09,71.0,84.0,UI-Tap 82.75s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S10,84.0,92.0,UI-Tap 88.00s; Pembayaran-Berhasil 89.50s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S11,92.0,98.0,Notifikasi-Penjual 93.50s; Kain-Geser 97.33s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S12,98.0,109.0,Kertas-Tas-A 99.00s; Kertas-Tas-B 101.50s; Kertas-Tas-A 103.00s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S13,109.0,116.0,Kertas-Tas-B 110.00s; Langkah-A 110.17s; Langkah-B 111.00s; Langkah-A 111.83s; Kertas-Tas-B 111.83s; Langkah-B 112.75s,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0
+S14,116.0,120.0,Ambience lembut; tanpa SFX tambahan.,02-Musik-120detik.wav; otomatis turun di cue dubbing,00-MIX-SIAP-IMPORT-120detik.wav pada detik 0

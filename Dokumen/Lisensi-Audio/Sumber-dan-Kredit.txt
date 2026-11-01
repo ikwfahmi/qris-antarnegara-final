@@ -1,0 +1,28 @@
+SUMBER AUDIO YANG DIPAKAI
+
+Kenney - Interface Sounds (2020), RPG Audio (2014), Impact Sounds (2019).
+Lisensi CC0 pada setiap paket. Salinan License.txt asli disertakan.
+https://kenney.nl/assets/interface-sounds
+https://kenney.nl/assets/rpg-audio
+https://kenney.nl/assets/impact-sounds
+https://kenney.nl/support
+
+"ukewave.wav" - yourliver, 18 Mei 2014, CC0.
+Pembuat menyatakan memainkan dan merekam ukulele sendiri. Paket memakai preview
+HQ MP3 yang tersedia publik, dikonversi ke WAV untuk penyuntingan; bukan original WAV.
+https://freesound.org/people/yourliver/sounds/238076/
+
+"Birds Ambience Atmosphere early morning field slight breeze.wav"
+WavJunction.com, 17 Januari 2019, CC0. Paket memakai preview HQ MP3 publik.
+Ini ambience generik, tidak diklaim sebagai rekaman lokasi Yogyakarta.
+https://freesound.org/people/WavJunction.com/sounds/456766/
+
+Lisensi dedikasi CC0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Modifikasi oleh penyuntingan: potong hening, konversi format, pengaturan level,
+fade/crossfade/loop, compression/limiting musik dan penempatan di timeline.
+Tidak dibuat musik, suara karakter, atau SFX baru dengan generative AI.
+Asal audio ini adalah sumber pihak ketiga berlisensi; jangan mengaku merekamnya sendiri.
+Nama kredit opsional untuk dokumentasi: SFX Kenney; music yourliver; ambience WavJunction.com.
+Daftar file, lisensi dan pengolahan rinci: Manifest-Audio.json.

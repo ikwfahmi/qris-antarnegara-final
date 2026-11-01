@@ -1,0 +1,6 @@
+*.blend
+*.blend1
+*.mp4
+*.wav
+*.tar.zst
+__pycache__/
